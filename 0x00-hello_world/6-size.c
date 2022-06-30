@@ -1,7 +1,4 @@
 #include <stdio.h>
-
-
-
 /*
  *
  *  * main - Entry function
@@ -15,13 +12,12 @@
 {
 
 		int a;
-
-			long int b;
-
+	        	long int b;
+             
 				long long int c;
 
-					char d;
-
+			        	char d;
+                             
 						float f;
 
 
