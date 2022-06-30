@@ -12,7 +12,8 @@
 
 /*
  *
- *  * main function */int main(void)
+ *  * main function
+ * */int main(void)
 
 {
 
