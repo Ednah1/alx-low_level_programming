@@ -2,11 +2,11 @@
 #include<time.h>
 #include<stdio.h>
 /*
-*task
+*main - Entry point
 */
 /*
 *main - Assign a random number to n each time it is executed and print
-*Return : always 0
+*Return : always 0 (Success)
 * /
 int main(void)
 {
