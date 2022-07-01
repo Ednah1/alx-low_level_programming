@@ -1,1 +1,1 @@
-a program that prints all possible combinations of single-digit numbers and Numbers must be separated by , followed by a space and Numbers should be printed in ascending order
+ program that prints all possible different combinations of two digits and numbers must be separated by and  followed by a space and  The two digits must be different
