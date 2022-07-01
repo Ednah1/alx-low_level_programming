@@ -4,7 +4,7 @@
 /**
 *main - Assign a random number to n each time it is executed and print
 *based a condition
-*Return : always 0 (success)
+*Return : Always 0 (Success)
 */
 int main(void)
 {
