@@ -5,7 +5,7 @@
 *task
 */
 /*
-*main -> assign a random number to the variable n each time it is executed and print
+*main - Assign a random number to n each time it is executed and print
 */
 int main(void)
 {
