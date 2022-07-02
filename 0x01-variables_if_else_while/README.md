@@ -1,1 +1,1 @@
- program that prints all possible different combinations of two digits and numbers must be separated by and  followed by a space and  The two digits must be different
+ a program that prints all possible combinations of two two-digit numbers and the numbers should range from 0 to 99
