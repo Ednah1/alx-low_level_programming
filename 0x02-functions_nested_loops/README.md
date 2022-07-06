@@ -1,1 +1,1 @@
-function that prints 10 times the alphabet, in lowercase, followed by a new line
+ function that checks for lowercase character.Prototype: int _islower(int c);Returns 1 if c is lowercase Returns 0 otherwise
