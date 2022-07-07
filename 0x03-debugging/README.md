@@ -1,1 +1,1 @@
-this is c debugging
+program prints the largest of three integers.
