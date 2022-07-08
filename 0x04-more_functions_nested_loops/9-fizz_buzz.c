@@ -10,12 +10,14 @@
 int main(void)
 {
 	int i;
+
 	for (i = 1; i <= 100; i++)
 	{
 		if (i % 3 == 0 && i % 5 != 0)
 		{
 			printf(" Fizz");
-			} else if (i % 3 == 0 && i % 5 == 0)
+		} else if
+			(i % 3 == 0 && i % 5 == 0)
 			{
 				printf(" FizzBuzz");
 			} else if (i == 1)
@@ -30,4 +32,3 @@ int main(void)
 
 	return (0);
 }
-
