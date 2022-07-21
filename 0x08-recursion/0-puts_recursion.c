@@ -3,6 +3,7 @@
 /**
  * _puts_recursion -> this is a function to print string recursivly
  * @s: string paramenter
+ * Return: void
 */
 void _puts_recursion(char *s)
 {
